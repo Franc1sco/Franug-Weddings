@@ -1,0 +1,221 @@
+"Phrases"
+{
+	"status being checked"
+	{
+		"en"			"Your marital status is being checked, try again later."
+		"es"			"Se esta comprobando su estado civil, intentelo de nuevo mas tarde."
+	}
+
+	"no singles on server"
+	{
+		"en"			"There are currently no singles on the server."
+		"es"			"No hay solteros actualmente en el servidor."
+	}
+	
+	"already proposed"
+	{	
+		"#format"		"{1:s}"
+		"en"  			"You have already proposed to {green}{1}{default}!"
+		"es"  			"Ya te has propuesto ha {green}{1}{default}!"
+	}
+	
+	"already married"
+	{	
+		"#format"		"{1:s}"
+		"en"  			"You are already married to {green}{1}{default}!"
+		"es"  			"Ya estas casado con {green}{1}{default}!"
+	}
+	
+	"revoke info"
+	{	
+		"en"  			"Type !revoke to revoke your proposal."
+		"es"  			"Escribe !revoke para revocar tu proposicion."
+	}
+	
+	"divorce info"
+	{	
+		"en"  			"Type !divorce for a divorce."
+		"es"  			"Escribe !divorce para divorciarte."
+	}
+	
+	"proposal revoked"
+	{	
+		"#format"		"{1:s}"
+		"en"  			"You have revoked your proposal to {green}{1}{default}!"
+		"es"  			"Has revocado tu proposicion ha {green}{1}{default}!"
+	}
+	
+	"not proposed"
+	{	
+		"en"  			"You have not proposed to anyone."
+		"es"  			"No te has propuesto a nadie."
+	}
+	
+	"not married"
+	{	
+		"en"  			"You are not married."
+		"es"  			"No estas casado"
+	}
+	
+	"marriage info"
+	{	
+		"en"  			"Type !marry to browse all connected singles."
+		"es"  			"Escribe !marry para ver a todos los solteros conectados."
+	}
+	
+	"marriage revoked days"
+	{	
+		"#format"		"{1:s},{2:s},{3:i}"
+		"en"  			"{green}{1}{default} has divorced {green}{2}{default} after {green}{3} day(s){default} of marriage!"
+		"es"  			"{green}{1}{default} se ha divorciado de {green}{2}{default} despues de {green}{3} dias{default} de matrimonio!"
+	}
+	
+	"marriage revoked months"
+	{	
+		"#format"		"{1:s},{2:s},{3:i}"
+		"en"  			"{green}{1}{default} has divorced {green}{2}{default} after {green}{3} month(s){default} of marriage!"
+		"es"  			"{green}{1}{default} se ha divorciado de {green}{2}{default} despues de {green}{3} meses{default} de matrimonio!"
+	}
+	
+	"marriage revoked years"
+	{	
+		"#format"		"{1:s},{2:s},{3:i}"
+		"en"  			"{green}{1}{default} has divorced {green}{2}{default} after {green}{3} year(s){default} of marriage!"
+		"es"  			"{green}{1}{default} se ha divorciado de {green}{2}{default} despues de{green}{3} anios{default} de matrimonio!"
+	}
+	
+	"divorce notification"
+	{	
+		"en"  			"They are both on offer again!"
+		"es"  			"Ambos estan en oferta de nuevo"
+	}
+	
+	"no proposals"
+	{	
+		"en"  			"No one has currently proposed to you."
+		"es"  			"Nadie te ha enviado una proposicion."
+	}
+	
+	"proposal notification"
+	{	
+		"#format"		"{1:s}"
+		"en"  			"You have received a marriage proposal from {green}{1}{default}!"
+		"es"  			"Has recibido una peticion de boda de {green}{1}{default}!"
+	}
+	
+	"proposal info"
+	{	
+		"en"  			"Type !proposals to view all players who have proposed to you."
+		"es"  			"Escribe !proposals para ver todos los jugadores que te pretenden."
+	}
+
+	"submission info"
+	{	
+		"en"  			"Your proposal has been submitted. Good luck!"
+		"es"  			"Tu proposion ha sido enviada. Buena suerte!"
+	}
+	
+	"bidirectional proposal"
+	{
+		"#format"		"{1:s}"
+		"en"			"{green}{1}{default} has already proposed to you!"
+		"es"			"{green}{1}{default} ya te ha enviado una proposicion!"
+	}
+	
+	"target not on server"
+	{	
+		"en"  			"Your heart throb has already left the server."
+		"es"  			"Tu gran amor ha dejado ya el servidor."
+	}
+	
+	"got married"
+	{	
+		"#format"		"{1:s}"
+		"en"  			"You have married {green}{1}{default}!"
+		"es"  			"Estas casado {green}{1}{default}!"
+	}
+	
+	"proposal accepted"
+	{	
+		"#format"		"{1:s}"
+		"en"  			"{green}{1}{default} has accepted your marriage proposal!"
+		"es"  			"{green}{1}{default} ha aceptado tu proposicion de boda!"
+	}
+	
+	"marriage notification"
+	{	
+		"#format"		"{1:s},{2:s}"
+		"en"  			"{green}{1}{default} and {green}{2}{default} are now married! Congratulations!"
+		"es"  			"{green}{1}{default} y {green}{2}{default} estan ahora casados! Enhorabuena!"
+	}
+	
+	"proposer not on server"
+	{	
+		"en"  			"Your love is currently not on the server, you must wait."
+		"es"  			"Tu amor no esta actualmente en el servidor, deberas esperar"
+	}
+	
+	"love already married"
+	{	
+		"en"  			"Your love has already married someone else."
+		"es"  			"Tu amor ya se ha casado con otro."
+	}
+		
+	"!marry menu title"
+	{	
+		"en"  			"Connected singles:"
+		"es"  			"Solteros conectados:"
+	}
+	
+	"!proposals menu title"
+	{	
+		"en"  			"Accept proposal from:"
+		"es"  			"Aceptar proposicion de:"
+	}
+	
+	"!couples menu title"
+	{	
+		"#format"		"{1:i}"
+		"en"  			"Top {1} couples:"
+		"es"  			"Top {1} parejas:"
+	}
+	
+	"!couples menu entry"
+	{	
+		"#format"		"{1:s},{2:s},{3:s},{4:i}"
+		"en"  			"{1} & {2} - {3} - {4} points"
+		"es"  			"{1} & {2} - {3} - {4} puntos"
+	}
+	
+	"no couples"
+	{	
+		"en"  			"There are no married couples registered on the server."
+		"es"  			"No hay matrimonios registrados en el servidor."
+	}
+	
+	"reset proposals"
+	{	
+		"en"  			"The weddings_proposals table has been successfully cleared."
+		"es"  			"La weddings_proposals tabla ha sido limpiado correctamente."
+	}
+	
+	"reset marriages"
+	{	
+		"en"  			"The weddings_marriages table has been successfully cleared."
+		"es"  			"La weddings_marriages tabla ha sido reiniciada correctamente."
+	}
+	
+	"spam"
+	{	
+		"en"  			"Respect marriage, don't abuse commands!"
+		"es"  			"Respecta el matrimonio, no abuses de los comandos!"
+	}
+	
+	"delay info"
+	{	
+		"#format"		"{1:.2f}"
+		"en"  			"The command delay is {green}{1} minute(s){default}."
+		"es"  			"El tiempo entre comandos es de {green}{1} minuto(s){default}."
+	}
+
+}
