@@ -31,7 +31,7 @@ new String:sql_updateProposalTarget[] =
 // SQL queries for the weddings_marriages table.
 
 new String:sql_createMarriages[] =
-	"CREATE TABLE IF NOT EXISTS weddings_marriages (source_name VARCHAR(64), source_id VARCHAR(64) , target_name VARCHAR(64), target_id VARCHAR(64), score UNSIGNED INTEGER, timestamp UNSIGNED INTEGER);";
+	"CREATE TABLE IF NOT EXISTS weddings_marriages (source_name VARCHAR(64), source_id VARCHAR(64) , target_name VARCHAR(64), target_id VARCHAR(64), score INTEGER UNSIGNED, timestamp INTEGER UNSIGNED);";
 	
 new String:sql_resetMarriages[] = 
 	"DELETE FROM weddings_marriages;";
