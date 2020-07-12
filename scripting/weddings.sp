@@ -3,7 +3,7 @@
 
 #pragma semicolon 1
 
-#define PLUGIN_VERSION "3.0"
+#define PLUGIN_VERSION "3.0.1"
 
 #define MAX_MENU_DISPLAY_TIME 10
 #define MAX_DATE_LENGTH 12
